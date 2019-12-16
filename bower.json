@@ -1,0 +1,12 @@
+{
+  "name": "bower_components",
+  "version": "1.0.1",
+  "authors": [],
+  "description": "Tổng hợp những thư viện bên thứ 3 sử dụng cho dự án Awesome Chat.",
+  "main": "/",
+  "keywords": [
+    "awesome-chat-third-party-libraries"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dohuyvuong/awesome-chat-third-party-libraries.git"
+}
